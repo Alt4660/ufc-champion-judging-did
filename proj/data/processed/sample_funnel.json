@@ -1,0 +1,12 @@
+{
+ "ufc_events": 798,
+ "ufc_fights": 9040,
+ "decisions_all": 4189,
+ "decisions_with_winner": 4124,
+ "decisions_matched_to_performance": 4032,
+ "title_bouts_undisputed": 371,
+ "title_bouts_interim": 30,
+ "title_bouts_with_incumbent": 322,
+ "first_date": "1994-03-11",
+ "last_date": "2026-11-21"
+}
